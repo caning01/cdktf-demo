@@ -5,6 +5,7 @@ from imports.aws import AwsProvider
 from imports.aws.s3 import S3Bucket
 from imports.aws.vpc import Vpc
 
+
 DEFAULTVPCCONFIG = {
     'PROD': {
         'CIB': {
